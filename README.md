@@ -4,45 +4,34 @@ This repository contains various Python scripts for creating voice and text-base
 
 ## Chatbots
 
-# Account Registration Bot
-- ** Description:** Assists users in creating accounts by collecting information such as full name, date of birth, phone number, and email address.
-- Features:
-- Step-by-step information collection.
-- Saves user data in JSON format upon completion.
+## Account Registration Bot
+**Add a Contact**:
+- **Description**: Assists users in creating accounts by collecting information such as full name, date of birth, phone number, and email address.
+- **Features**:
+## Account Eegistration Vot
+- **Description**: Collects user information for account creation in a structured format (JSON).
 
-1. Account Registration Bot
-Description: Assists users in creating accounts by collecting information such as full name, date of birth, phone number, and email address.
-Features:
+## Chatbot
+Description: Engages users in conversation, responding to questions and providing information.
 
-Step-by-step information collection.
-Saves user data in JSON format upon completion.
-2. General Q&A Bot
-Description: A general-purpose chatbot that answers user questions.
-Features:
+## Shakespeare Assistant
+- **Description**: Delivers responses in the style of Shakespeare.
 
-Responds to user inquiries.
-Provides relevant answers based on the user's question.
-3. Shakespearean Assistant
-Description: Engages users in a playful manner, responding like Shakespeare.
-Features:
+## Voice Chatbot
+- **Description**: Uses speech recognition to take voice commands and respond verbally.
 
-Provides humorous and poetic responses.
-Ideal for entertainment and light-hearted interactions.
-4. Speech Recognition Chatbot
-Description: Allows users to interact with the bot through voice commands.
-Features:
+## Turkish Voice Chatbot
+- **Description**: Engages in Turkish, translating between English and Turkish.
 
-Uses speech recognition to capture user input.
-Offers responses based on verbal inquiries.
-5. Turkish Voice Chatbot
-Description: A voice-enabled chatbot that communicates in Turkish.
-Features:
+## Whisper Assistant
+- **Description**: Utilizes the Whisper model for audio transcription and interaction.
 
-Recognizes and responds to Turkish voice inputs.
-Utilizes translation services for effective communication.
-6. Voice Chatbot
-Description: A versatile voice-based chatbot that responds to user inquiries.
-Features:
+## Speech Recognition Chatbot
+- **Description**: Allows users to interact with the bot through voice commands, capturing spoken input.
 
-Provides spoken responses.
-Engages users through natural language processing.
+## Registration Assistant
+- **Description**: Assists users in creating an account by collecting necessary information such as full name, date of birth, phone number, and email address.
+
+## Whisper Conversation Logger
+- **Description**: Logs conversations into a JSON format for later reference.
+
