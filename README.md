@@ -1,4 +1,4 @@
-# Chatbots
+# Chatbot Collection
 
 ## Chatbot
 - **Description**: Engages users in conversation, responding to questions and providing information.
