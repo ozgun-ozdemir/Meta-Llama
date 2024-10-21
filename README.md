@@ -4,7 +4,7 @@ This repository contains various Python scripts for creating voice and text-base
 
 ## Chatbots
 
-## Account Registration Bot
+# Account Registration Bot
 - Description: Assists users in creating accounts by collecting information such as full name, date of birth, phone number, and email address.
 - Features:
 - Step-by-step information collection.
