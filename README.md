@@ -21,7 +21,7 @@ This repository contains various Python scripts for creating voice and text-base
 
 ## Registration Assistant
 - **Description**: Assists users in creating an account by collecting necessary information such as full name, date of birth, phone number, and email address.
-- 
+
 ## Whisper Assistant
 - **Description**: Utilizes the Whisper model for audio transcription and interaction.
 
