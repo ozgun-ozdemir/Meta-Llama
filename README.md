@@ -1,4 +1,5 @@
 # Chatbot Collection
+This repository features Python scripts for voice and text chatbots using LangChain, Whisper, and speech recognition, enabling account registration, conversational AI, and translations.
 
 ## Chatbot
 - **Description**: Engages users in conversation, responding to questions and providing information.
