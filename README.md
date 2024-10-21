@@ -26,5 +26,5 @@ This repository contains various Python scripts for creating voice and text-base
 - **Description**: Utilizes the Whisper model for audio transcription and interaction.
 
 ## Whisper Conversation Logger
-- **Description**: Logs conversations into a JSON format for later reference.
+- **Description**: Saves conversations in a JSON format for later reference.
 
