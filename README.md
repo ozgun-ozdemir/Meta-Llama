@@ -3,16 +3,11 @@
 This repository contains various Python scripts for creating voice and text-based chatbot assistants using LangChain, Whisper, and speech recognition libraries. The assistants are designed to facilitate different types of interactions, from account registration to conversational AI, and even translations.
 
 ## Chatbots
-
 ## Account Registration Bot
-**Add a Contact**:
-- **Description**: Assists users in creating accounts by collecting information such as full name, date of birth, phone number, and email address.
-- **Features**:
-## Account Eegistration Vot
 - **Description**: Collects user information for account creation in a structured format (JSON).
 
 ## Chatbot
-Description: Engages users in conversation, responding to questions and providing information.
+- **Description**: Engages users in conversation, responding to questions and providing information.
 
 ## Shakespeare Assistant
 - **Description**: Delivers responses in the style of Shakespeare.
